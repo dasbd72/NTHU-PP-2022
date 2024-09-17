@@ -1,0 +1,10 @@
+.vscode
+archive
+outputs
+source
+testcases
+
+*.o
+mapreduce
+
+*.tmp
